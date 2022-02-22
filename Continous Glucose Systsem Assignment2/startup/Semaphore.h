@@ -1,0 +1,4 @@
+
+
+
+#define SNAME "/semaphore1"
